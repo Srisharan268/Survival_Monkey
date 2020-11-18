@@ -109,6 +109,14 @@ function draw() {
        monkey.scale=0.15;
        break; 
      
+     case 50:
+       monkey.scale=0.175;
+       break;
+     
+     case 100:
+       monkey.scale=0.15;
+       break;
+     
      default :
        break;
        
