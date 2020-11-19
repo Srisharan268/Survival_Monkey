@@ -3,7 +3,7 @@ var backGround,backGround_image;
 var monkey,monkey_image,monkey_image2;
 var ground;
 var bananaGroup,banana_image,ObstaclesGroup,stone_image;
-var score=98;
+var score = 98;
 var count = 0,count2 = 0;
 var gameOver,gameOver_image,reset_button,resetButton_image;
 var health1_image,health2_image;
