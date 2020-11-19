@@ -37,7 +37,7 @@ function setup() {
   monkey = createSprite(100,200,20,20);
   monkey.addAnimation("running",monkey_image);
   monkey.addAnimation("collided",monkey_image2);
-  monkey.scale=0.2;
+  monkey.scale=0.075;
   
   ground = createSprite(300,235,600,10);
   ground.visible=false;
